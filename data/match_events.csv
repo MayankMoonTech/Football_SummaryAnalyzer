@@ -1,0 +1,11 @@
+minute,team,player,event_type,x,y,result
+1,Team A,Player1,pass,30,50,success
+2,Team A,Player2,pass,40,60,success
+3,Team A,Player3,shot,90,40,goal
+5,Team B,Player5,tackle,35,45,success
+6,Team B,Player6,pass,45,50,success
+7,Team B,Player7,shot,80,60,miss
+10,Team A,Player4,pass,50,30,success
+11,Team A,Player3,shot,85,45,miss
+12,Team B,Player8,pass,40,55,success
+13,Team B,Player9,shot,88,50,goal
